@@ -1,4 +1,4 @@
-# MySQL_Workshop
+# MySQL_Training
 ## Basic Login System with  MySQL and Node.js-Express
 
 In this workshop, you'll be developing a login system with MySQL and Node.js-Express will enable us to develop our application with JavaScript, Express is a web framework, and we'll be using MySQL to store and retrieve account details (username, password, etc.).
